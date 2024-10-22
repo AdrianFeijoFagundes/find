@@ -1,0 +1,18 @@
+Conceitos: REPOSITÓRIO, COMMIT, BRANCH, MARGE
+---------------------------------------------
+untraked 
+unmodified
+modified
+staged
+---------------------------------------------
+
+Orientação a Objetos
+    herança 
+    polimorfismo
+    interface
+DESIGH PATTERNS
+    singleton 
+    strategy
+SOLID
+
+https://refactoring.guru/refactoring
